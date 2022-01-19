@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "esnext",
+    "lib": ["DOM", "ESNext"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "resolveJsonModule": true
+  }
+}
